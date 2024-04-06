@@ -1,10 +1,10 @@
 # Strike-Temple
-Fights videogame programmed using Unity (C++/#) and animated in Autodesk Maya.
+## Fights videogame programmed using Unity (C++/#) and animated in Autodesk Maya.
 
-Elf Animator: Guillem Aixut
+### Elf Animator: Guillem Aixut
 
-Humanoid Lion Animator: David Ruiz
+### Humanoid Lion Animator: David Ruiz
 
-Youtube video:
+## Youtube video:
 
 [![Video](https://img.youtube.com/vi/K_FLW_FTTac/0.jpg)](https://www.youtube.com/watch?v=K_FLW_FTTac)
